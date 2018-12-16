@@ -21,47 +21,47 @@ actor Main
 
 ### Primitive `LittleEndian`
 
-#### `u8(Array[U8], offset: USize = 0): U8 ?`
+#### `u8(Array[U8] box, offset: USize = 0): U8 ?`
 
-#### `u16(Array[U8], offset: USize = 0): U16 ?`
+#### `u16(Array[U8] box, offset: USize = 0): U16 ?`
 
-#### `u32(Array[U8], offset: USize = 0): U32 ?`
+#### `u32(Array[U8] box, offset: USize = 0): U32 ?`
 
-#### `u64(Array[U8], offset: USize = 0): U64 ?`
+#### `u64(Array[U8] box, offset: USize = 0): U64 ?`
 
-#### `u128(Array[U8], offset: USize = 0): U128 ?`
+#### `u128(Array[U8] box, offset: USize = 0): U128 ?`
 
-#### `i8(Array[U8], offset: USize = 0): I8 ?`
+#### `i8(Array[U8] box, offset: USize = 0): I8 ?`
 
-#### `i16(Array[U8], offset: USize = 0): I16 ?`
+#### `i16(Array[U8] box, offset: USize = 0): I16 ?`
 
-#### `i32(Array[U8], offset: USize = 0): I32 ?`
+#### `i32(Array[U8] box, offset: USize = 0): I32 ?`
 
-#### `i64(Array[U8], offset: USize = 0): I64 ?`
+#### `i64(Array[U8] box, offset: USize = 0): I64 ?`
 
-#### `i128(Array[U8], offset: USize = 0): I128 ?`
+#### `i128(Array[U8] box, offset: USize = 0): I128 ?`
 
 ### Primitive `BigEndian`
 
-#### `u8(Array[U8], offset: USize = 0): U8 ?`
+#### `u8(Array[U8] box, offset: USize = 0): U8 ?`
 
-#### `u16(Array[U8], offset: USize = 0): U16 ?`
+#### `u16(Array[U8] box, offset: USize = 0): U16 ?`
 
-#### `u32(Array[U8], offset: USize = 0): U32 ?`
+#### `u32(Array[U8] box, offset: USize = 0): U32 ?`
 
-#### `u64(Array[U8], offset: USize = 0): U64 ?`
+#### `u64(Array[U8] box, offset: USize = 0): U64 ?`
 
-#### `u128(Array[U8], offset: USize = 0): U128 ?`
+#### `u128(Array[U8] box, offset: USize = 0): U128 ?`
 
-#### `i8(Array[U8], offset: USize = 0): I8 ?`
+#### `i8(Array[U8] box, offset: USize = 0): I8 ?`
 
-#### `i16(Array[U8], offset: USize = 0): I16 ?`
+#### `i16(Array[U8] box, offset: USize = 0): I16 ?`
 
-#### `i32(Array[U8], offset: USize = 0): I32 ?`
+#### `i32(Array[U8] box, offset: USize = 0): I32 ?`
 
-#### `i64(Array[U8], offset: USize = 0): I64 ?`
+#### `i64(Array[U8] box, offset: USize = 0): I64 ?`
 
-#### `i128(Array[U8], offset: USize = 0): I128 ?`
+#### `i128(Array[U8] box, offset: USize = 0): I128 ?`
 
 ## Install
 
